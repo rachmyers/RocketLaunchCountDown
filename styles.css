@@ -1,0 +1,40 @@
+/*
+    Name: Rachel Myers
+    Class: CIS 131
+    Section: W01
+    Date: 10/18/2020
+*/
+
+/*  Overall body styles  */
+body {
+    width: 800px;
+    margin: auto;
+    background-color: lightgray;
+}
+
+/* Header styles */
+
+header {
+    background-color: darkblue;
+    padding: 10px;
+    margin-bottom: 30px;
+
+}
+
+h1, #nextLaunchText {
+    color: white;
+}
+
+
+/* Styles for div holding launch names and dates of next 5 launches */
+
+#launchTable {
+    background-color: lightblue;
+    padding: 15px;
+}
+
+/* Button styles */
+
+button {
+    margin-top: 25px;
+}
